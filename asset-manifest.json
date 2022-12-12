@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/stkMktFrontEnd/static/css/main.1097b88b.chunk.css",
-    "main.js": "/stkMktFrontEnd/static/js/main.d3ec1df8.chunk.js",
-    "main.js.map": "/stkMktFrontEnd/static/js/main.d3ec1df8.chunk.js.map",
-    "runtime~main.js": "/stkMktFrontEnd/static/js/runtime~main.079f7b2c.js",
-    "runtime~main.js.map": "/stkMktFrontEnd/static/js/runtime~main.079f7b2c.js.map",
-    "static/css/2.bb57abf7.chunk.css": "/stkMktFrontEnd/static/css/2.bb57abf7.chunk.css",
-    "static/js/2.c12491cd.chunk.js": "/stkMktFrontEnd/static/js/2.c12491cd.chunk.js",
-    "static/js/2.c12491cd.chunk.js.map": "/stkMktFrontEnd/static/js/2.c12491cd.chunk.js.map",
-    "index.html": "/stkMktFrontEnd/index.html",
-    "precache-manifest.c03646cca0d93e52268e56d30403f346.js": "/stkMktFrontEnd/precache-manifest.c03646cca0d93e52268e56d30403f346.js",
-    "service-worker.js": "/stkMktFrontEnd/service-worker.js",
-    "static/css/2.bb57abf7.chunk.css.map": "/stkMktFrontEnd/static/css/2.bb57abf7.chunk.css.map",
-    "static/css/main.1097b88b.chunk.css.map": "/stkMktFrontEnd/static/css/main.1097b88b.chunk.css.map",
-    "static/media/index.png": "/stkMktFrontEnd/static/media/index.ccc2dec4.png",
-    "static/media/value.jpg": "/stkMktFrontEnd/static/media/value.29eb7a19.jpg"
+    "main.css": "/static/css/main.1097b88b.chunk.css",
+    "main.js": "/static/js/main.3e029a1c.chunk.js",
+    "main.js.map": "/static/js/main.3e029a1c.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.bb57abf7.chunk.css": "/static/css/2.bb57abf7.chunk.css",
+    "static/js/2.d0c2a6f1.chunk.js": "/static/js/2.d0c2a6f1.chunk.js",
+    "static/js/2.d0c2a6f1.chunk.js.map": "/static/js/2.d0c2a6f1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b850ba80b659bb01cfbc968146f070ea.js": "/precache-manifest.b850ba80b659bb01cfbc968146f070ea.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.bb57abf7.chunk.css.map": "/static/css/2.bb57abf7.chunk.css.map",
+    "static/css/main.1097b88b.chunk.css.map": "/static/css/main.1097b88b.chunk.css.map",
+    "static/media/index.png": "/static/media/index.ccc2dec4.png",
+    "static/media/value.jpg": "/static/media/value.29eb7a19.jpg"
   }
 }
