@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9fd8fe172ffd0e65d72b289f7edfaa24",
+    "revision": "82612862d0fb604751a93fec4a621c84",
     "url": "/stkMktFrontEnd/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/stkMktFrontEnd/static/css/2.bb57abf7.chunk.css"
   },
   {
-    "revision": "5d9396032b93677fbd4d",
+    "revision": "4dee7f5f1aed989aff04",
     "url": "/stkMktFrontEnd/static/css/main.1097b88b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/stkMktFrontEnd/static/js/2.c12491cd.chunk.js"
   },
   {
-    "revision": "5d9396032b93677fbd4d",
-    "url": "/stkMktFrontEnd/static/js/main.bff9eec0.chunk.js"
+    "revision": "4dee7f5f1aed989aff04",
+    "url": "/stkMktFrontEnd/static/js/main.d3ec1df8.chunk.js"
   },
   {
     "revision": "ce39be3d074af0afa23c",
